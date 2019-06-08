@@ -6,3 +6,4 @@ Sam Wimberly
 Rebeca Hassan
 Justin Stubbs
 Fiona Nguyen
+Veronique Singh
