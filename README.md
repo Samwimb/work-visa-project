@@ -1,2 +1,8 @@
 # work-visa-project
-Work visa project
+Work Visa Project
+
+Project Members:
+Sam Wimberly
+Rebeca Hassan
+Justin Stubbs
+Fiona Nguyen
